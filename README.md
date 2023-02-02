@@ -1,2 +1,2 @@
 # Colab
-Jupyter notes on using Colab
+Jupyter notebooks on using Colab.
